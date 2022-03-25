@@ -1,0 +1,13 @@
+Monday 2
+Quirm 6 120
+Lancre 2 20
+Tuesday 0
+Wednesday 1
+Stolat 6 200
+Thursday 2
+Uberwald 3 20
+Genua 7 30
+Friday 0
+Saturday 0
+Sunday 1
+Quirm 6 20
